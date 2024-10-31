@@ -1,4 +1,4 @@
-# Raspberry Pi Setup for AI Wearable Project
+# Raspberry Pi Caldera Set Up
 
 ## Project Overview
 
